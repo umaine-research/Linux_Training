@@ -12,3 +12,8 @@ Topics include:
 - (4) Job submission using SLURM syntax
 - (5) Using package managers (e.g., Docker, Anaconda)
 
+For self-guided training, please see the slides below:
+
+- [Introduction to Linux - Part 1](https://github.com/umaine-research/Linux_Training/blob/main/Intro_to_Linux.pdf)
+
+- [Introduction to HPC - Part 2](https://github.com/umaine-research/Linux_Training/blob/main/Intro_to_HPC.pdf)
